@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick Gatal</h1>
-<h3 align="center">A self-taught programmer interested in data analytics</h3>
+<h3 align="center">A self-taught programmer interested in data science</h3>
 
 - 🔭 I’m currently working on [University-Budget](https://github.com/PatrickIV/University-Budget)
 

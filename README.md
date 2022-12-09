@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [University-Budget](https://github.com/PatrickIV/University-Budget)
 
-- 🌱 I’m currently learning **Numpy, Pandas, Matplotly**
+- 🌱 I’m currently learning **Numpy, Pandas, Matplotlib**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
